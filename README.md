@@ -1,2 +1,1 @@
-# crumpled-balls-2
-images of the dustbin and paper
+# CP-2
